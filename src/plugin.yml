@@ -1,0 +1,5 @@
+name: RandomCodeLottery
+version: 0.1
+author: Asedi
+main: cloud.vanillaclassic.randomcodelottery.Main
+api-version: 1.16
